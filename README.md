@@ -101,6 +101,7 @@ To verify the functionality of the FSM, a testbench should be implemented that:
    
 ## edapalyground link
 https://www.edaplayground.com/x/rK8_
+
 ## simulation output
 ![image](https://github.com/user-attachments/assets/700ac0a3-16a0-4e4d-a327-144ec4ddf4ed)
 
