@@ -97,11 +97,13 @@ endmodule
 To verify the functionality of the FSM, a testbench should be implemented that:
 1. Provides a clock signal.
 2. Applies different input sequences.
-3. Observes the state transitions and output behavior.
-
+3. Observes the state transitions and output behavior
+   
+## edapalyground link
+https://www.edaplayground.com/x/rK8_
 ## simulation output
 ![image](https://github.com/user-attachments/assets/700ac0a3-16a0-4e4d-a327-144ec4ddf4ed)
 
-## wave form
+## waveform
 ![image](https://github.com/user-attachments/assets/3699afa9-8cd4-431b-87fe-a3dcb353c63e)
 
